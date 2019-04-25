@@ -17,7 +17,7 @@
 
 1. Клонирование репозитория
 ```sh
-git clone https://github.com/k9503536301/test-task-funbox.git
+git clone https://github.com/k9503536301/route-editor.git
 ```
 2. Установка npm зависимостей
 ```sh
