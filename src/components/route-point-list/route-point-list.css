@@ -1,0 +1,18 @@
+.route-list {
+    padding: 0px .75rem;
+    transition: background-color 0.2s ease;
+    /*border: inherit;*/
+}
+
+.btn-link {
+    color: dimgray;
+}
+
+.route-item button {
+    /*width: 35px;*/
+    /*margin: 3px;*/
+}
+
+.droppable{
+    background-color: skyblue;
+}

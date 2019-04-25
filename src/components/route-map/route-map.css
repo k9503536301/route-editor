@@ -1,0 +1,16 @@
+div.route-map{
+    background: silver;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    /*height: 270px;*/
+    /*margin-bottom: 100px;*/
+}
+
+/*div.route-map:before {*/
+    /*content: "";*/
+    /*padding-top: 75%;*/
+    /*float: left;*/
+/*}*/
+
+
